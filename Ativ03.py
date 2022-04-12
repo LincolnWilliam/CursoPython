@@ -14,4 +14,4 @@ class AreaTriangulo (object):
 
     area = base * altura / 2
 
-    print("Tendo o triangulo uma base de: ", base," e uma Altura de: ", altura, "sua área é de: ", area)
+    print(f"Tendo o triangulo uma base de: ", base," e uma Altura de: ", altura, "sua área é de: ", area)
