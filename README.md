@@ -13,4 +13,6 @@
     cada um representa em relação ao total de eleitores.
 
 05- Transformar uma temperatura de Fahrenheit para Celsius.
+
+
     
