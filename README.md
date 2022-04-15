@@ -16,3 +16,4 @@
 
 
     
+06- calculando a área do Retangulo
