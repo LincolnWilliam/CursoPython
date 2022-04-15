@@ -17,3 +17,5 @@
 06- calculando a área do Retangulo
 
 07- Calculando custo final de um carro novo de fabrica.
+
+08- Calculando valor do ingresso, meia e inteira.
