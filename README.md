@@ -14,3 +14,4 @@
 
 05- Transformar uma temperatura de Fahrenheit para Celsius.
     
+06- calculando a área do Retangulo
