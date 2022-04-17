@@ -25,3 +25,5 @@ aferida e registrada pelo recepcionista do local. É preciso criar um algoritmo 
 dependendo da temperatura corporal. Com um medidor o recepcionista irá aferir e registrar no sistema e o algoritmo
 deverá liberar caso a temperatura seja <= 37 e não liberar caso a temperatura seja maior que 37º.
 A cancela só recebe True ou False (True para liberar e False para bloquear)
+
+10- Solicite um número ao usuário e mostre se o número é positivo ou negativo.
