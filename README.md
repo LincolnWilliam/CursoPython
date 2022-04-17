@@ -1,6 +1,6 @@
 # CursoPython
 
-      Varios Exercicios em PYTHON .
+      Varios Exercicios em PYTHON - Lógica de programação
 01- calculo do IMC . 
 
 02- Calculando média de 3 notas.
