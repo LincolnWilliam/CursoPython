@@ -27,3 +27,10 @@ deverá liberar caso a temperatura seja <= 37 e não liberar caso a temperatura 
 A cancela só recebe True ou False (True para liberar e False para bloquear)
 
 10- Solicite um número ao usuário e mostre se o número é positivo ou negativo.
+
+11- A Secretaria de Meio Ambiente que controla o índice de poluição mantém 3 grupos de indústrias que
+são altamente poluentes do meio ambiente. O índice de poluição aceitável varia de 0,05 até 0,25.
+Se o índice sobe para 0,3 as indústrias do 1º grupo são intimadas a suspenderem suas atividades,
+se o índice crescer para 0,4 as indústrias do 1º e 2º grupo são intimadas a suspenderem suas atividades,
+se o índice atingir 0,5 todos os grupos devem ser notificados a paralisarem suas atividades. Faça um algoritmo que leia o
+índice de poluição medido e emita a notificação adequada aos diferentes grupos de empresas.
